@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eloutmanim
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding web apps specially with angular and spring boot
+- 🌱 I’m currently learning coding web apps specially with react, angular, spring boot, mongodb...
 - 💞️ I’m looking to collaborate on to improve my skills
 - 📫 Please don't hesitate to write to me 
 
